@@ -36,5 +36,6 @@ var SinhVien = function () {
     }
     this.hienThi = function() {
         console.log("aksgdfhkjahf");
+        console.log("fjaslkdflksahfahfs")
     }
 }

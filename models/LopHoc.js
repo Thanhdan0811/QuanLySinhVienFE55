@@ -1,1 +1,2 @@
-let name = ;
+let name = "";
+let so = 6;
