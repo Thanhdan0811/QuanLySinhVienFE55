@@ -34,4 +34,7 @@ var SinhVien = function () {
         }
 
     }
+    this.hienThi = function() {
+        console.log("aksgdfhkjahf");
+    }
 }
