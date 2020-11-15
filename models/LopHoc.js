@@ -1,1 +1,5 @@
-let name = ;
+
+
+var LopHoc = function () {
+    this.maLop = '';
+}
